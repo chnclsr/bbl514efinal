@@ -9,8 +9,8 @@ https://drive.google.com/drive/folders/1jWQy21xpTx4L4FmOyX-41sxkSdgRcP03?usp=sha
 
 
 COCO Dataset Distillation - Method 1 (Local Development)\
-cd coco_distillation\ 
-pip install -r requirements.txt\
+cd coco_distillation&& 
+pip install -r requirements.txt&&
 python train.py\
 
 COCO Dataset Distillation - Method 2 (Colab)\
