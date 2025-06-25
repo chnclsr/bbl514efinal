@@ -1,0 +1,6 @@
+orijinal 4121 saniye = 68 dakika 41 saniye
+
+yüzde 30 dist. 30 dakika 10 epoch
+
+yüzde 5 dist 20 epoch 25 dakika
+yüzde 5 dist 10 epoch yaklaşık 13 dakika
