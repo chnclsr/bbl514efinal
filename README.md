@@ -7,5 +7,11 @@ CIFAR-10
 https://drive.google.com/drive/folders/1jWQy21xpTx4L4FmOyX-41sxkSdgRcP03?usp=sharing
 \
 
-cd coco_distillation && pip install -r requirements.txt &&
-python train.py
+
+COCO Dataset Distillation - Method 1 (Local Development)\
+cd coco_distillation\ 
+pip install -r requirements.txt\
+python train.py\
+
+COCO Dataset Distillation - Method 2 (Colab)\
+https://drive.google.com/file/d/1kj3oJTKf7zN3bkScWWnd2YUnBC-yp6wJ/view?usp=sharing
