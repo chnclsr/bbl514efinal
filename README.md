@@ -14,4 +14,7 @@ pip install -r requirements.txt\
 python train.py\
 
 COCO Dataset Distillation - Method 2 (Colab)\
-https://drive.google.com/file/d/1kj3oJTKf7zN3bkScWWnd2YUnBC-yp6wJ/view?usp=sharing
+https://drive.google.com/file/d/1kj3oJTKf7zN3bkScWWnd2YUnBC-yp6wJ/view?usp=sharing\
+
+CIFAR-10 Distillation\
+https://drive.google.com/file/d/1C9NNLlnf-jdga3zhM_5ZDqs47LSuDy7k/view?usp=sharing
