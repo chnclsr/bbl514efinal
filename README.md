@@ -1,8 +1,11 @@
 #BBL_514E Final Project -->>
 Cihan Calisir: Dataset Distillation for Multimodal Data
 
-Download data (train2017, val2017, test20217, annotations) from https://drive.google.com/drive/folders/13AKsdnAjLWVTN0wawXy6yn8MWXW7WP0d?usp=sharing
+Download COCO data (train2017, val2017, test20217, annotations) from https://drive.google.com/drive/folders/13AKsdnAjLWVTN0wawXy6yn8MWXW7WP0d?usp=sharing
 
+CIFAR-10
+https://drive.google.com/drive/folders/1jWQy21xpTx4L4FmOyX-41sxkSdgRcP03?usp=sharing
+\
 
 cd coco_distillation && pip install -r requirements.txt &&
 python train.py
