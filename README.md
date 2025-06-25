@@ -1,4 +1,4 @@
-#BBL_514E Final Project Code
+#BBL_514E Final Project -->>
 Cihan Calisir: Dataset Distillation for Multimodal Data
 
 Download data (train2017, val2017, test20217, annotations) from https://drive.google.com/drive/folders/13AKsdnAjLWVTN0wawXy6yn8MWXW7WP0d?usp=sharing
