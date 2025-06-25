@@ -18,3 +18,7 @@ https://drive.google.com/file/d/1kj3oJTKf7zN3bkScWWnd2YUnBC-yp6wJ/view?usp=shari
 
 CIFAR-10 Distillation\
 https://drive.google.com/file/d/1C9NNLlnf-jdga3zhM_5ZDqs47LSuDy7k/view?usp=sharing
+
+
+Presentation Video\
+https://drive.google.com/file/d/1d-rT0berTVwcFmC7wlPaAaCv9uN0poNT/view?usp=sharing
