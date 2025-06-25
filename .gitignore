@@ -1,0 +1,11 @@
+/coco_distillation/test2017/
+/coco_distillation/train2017/
+/coco_distillation/val2017/
+/coco_distillation/student_model.pth
+/coco_distillation/teacher_model.pth
+/coco_distillation/teacher_multimodal_vit.pth
+/coco_distillation/teacher_resnet.pth
+/coco_distillation/teacher_vit.pth
+/coco_distillation/data/
+/coco_distillation/results/
+/coco_distillation/annotations
